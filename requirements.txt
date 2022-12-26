@@ -3,4 +3,4 @@ python-dateutil
 PyPDF2
 pdflatex
 
-wheel==0.26.0
+wheel==0.38.1
